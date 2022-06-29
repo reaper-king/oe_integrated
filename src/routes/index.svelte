@@ -1,5 +1,5 @@
 <script>
-import '$lib/utilities/file_reader'
+import '$lib/utilities/file_reader';
 </script>
 
 
